@@ -4,6 +4,8 @@ import urllib.request, json
 from ebaysdk.trading import Connection
 import sqlite3
 
+#Edit1
+
 class shoe:
 
     def __init__(self, json_data, us_sizes, shoe_url):
